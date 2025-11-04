@@ -23,9 +23,10 @@ class Bus : public Vehicle , public Fare {
 
 int main()
 {
-    cout<<"Name : Sanafatima Bhatare"<<endl;
-    cout<<"Roll no. : 92 "<<endl;
+    cout<<"Name : Shubhada Tarlekar"<<endl;
+    cout<<"Roll no. : 95 "<<endl;
     
     Bus obj2;
     return 0;
 }
+
